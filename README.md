@@ -1,2 +1,2 @@
 ## LTSpice_sim
-#### LTspice simution of VHF RF Circuits
+#### LTspice simulation of VHF RF Circuits
